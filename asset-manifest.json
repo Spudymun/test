@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Spudymun/test/static/css/main.6880f69e.chunk.css",
+    "main.js": "/Spudymun/test/static/js/main.450cd4a5.chunk.js",
+    "main.js.map": "/Spudymun/test/static/js/main.450cd4a5.chunk.js.map",
+    "runtime-main.js": "/Spudymun/test/static/js/runtime-main.21713a03.js",
+    "runtime-main.js.map": "/Spudymun/test/static/js/runtime-main.21713a03.js.map",
+    "static/js/2.b077063e.chunk.js": "/Spudymun/test/static/js/2.b077063e.chunk.js",
+    "static/js/2.b077063e.chunk.js.map": "/Spudymun/test/static/js/2.b077063e.chunk.js.map",
+    "index.html": "/Spudymun/test/index.html",
+    "precache-manifest.1dd53b7669d2797807be95a0fe102152.js": "/Spudymun/test/precache-manifest.1dd53b7669d2797807be95a0fe102152.js",
+    "service-worker.js": "/Spudymun/test/service-worker.js",
+    "static/css/main.6880f69e.chunk.css.map": "/Spudymun/test/static/css/main.6880f69e.chunk.css.map",
+    "static/js/2.b077063e.chunk.js.LICENSE.txt": "/Spudymun/test/static/js/2.b077063e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21713a03.js",
+    "static/js/2.b077063e.chunk.js",
+    "static/css/main.6880f69e.chunk.css",
+    "static/js/main.450cd4a5.chunk.js"
+  ]
+}
